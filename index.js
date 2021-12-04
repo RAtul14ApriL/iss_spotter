@@ -17,13 +17,3 @@ nextISSTimesForMyLocation((error, flybyData) => {
     printData(flybyData);
   };
 });
-
-// flybyData= {
-//   response: [
-//     { risetime: 1638712265, duration: 528 },
-//     { risetime: 1638748665, duration: 373 },
-//     { risetime: 1638785065, duration: 196 },
-//     { risetime: 1638821465, duration: 664 },
-//     { risetime: 1638857865, duration: 228 }
-//   ]
-// }
